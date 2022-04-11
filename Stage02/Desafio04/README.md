@@ -8,8 +8,7 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 
 ## 🖼 Screenshot (Desafio concluído)
 
-<img src="https://i.imgur.com/Sd5ifYn.png">
-<img src="https://i.imgur.com/vCzOWeQ.png">
+<img src="https://i.imgur.com/3VQS61W.png">
 
 <h4 align="center">
     Feito com 💜 by <a href="https://www.linkedin.com/in/victorhugolessa/" target="_blank">Victor Hugo</a>
