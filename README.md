@@ -9,10 +9,16 @@ Aqui ficará guardado todo desafio ou projeto que for feito ao longo do curso de
 
 ## 🔗 Links dos desafios
 
-<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage02/Desafio01" target="_blank">Desafio 01</a></h6>
-<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage02/Desafio02" target="_blank">Desafio 02</a></h6>
-<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage02/Desafio03" target="_blank">Desafio 03</a></h6>
-<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage02/Desafio04" target="_blank">Desafio 04</a></h6>
+### Stage 02
+
+<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage02/Desafio01">Desafio 01</a></h6>
+<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage02/Desafio02">Desafio 02</a></h6>
+<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage02/Desafio03">Desafio 03</a></h6>
+<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage02/Desafio04">Desafio 04</a></h6>
+
+### Stage 03
+
+<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage03/Desafio01">Desafio 01</a></h6>
 
 ##
 
