@@ -19,6 +19,7 @@ Aqui ficará guardado todo desafio ou projeto que for feito ao longo do curso de
 ### Stage 03
 
 <h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage03/Desafio01">Desafio 01</a></h6>
+<h6><a href="https://github.com/VictorHugoLessa/Explorer/tree/main/Stage03/Desafio02">Desafio 02</a></h6>
 
 ##
 
