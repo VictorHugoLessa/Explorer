@@ -19,7 +19,3 @@ Tente se atentar ao conteúdo que foi passado na aula. Portanto, nesse desafio, 
 Lembrando: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso fórum e deixar sua dúvida por lá! 
 
 Boa sorte e boooooora codar! 🚀
-
-<h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/victorhugolessa/" target="_blank">Victor Hugo</a>
-</h4>
