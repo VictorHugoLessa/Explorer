@@ -5,7 +5,7 @@ O <strong>Explorer</strong> é um programa da Rocketseat que ensina a se posicio
 ## 🔗 Repositório
 
 <strong>Repositório</strong> feito com a intenção de documentar toda a minha evolução no decorrer do curso. <br>
-Aqui ficará guardado todo desafio ou projeto que for feito ao longo do curso de duração de 3 meses.
+Aqui ficará guardado todo desafio ou projeto que for feito ao longo do curso.
 
 ## 🔗 Links dos desafios
 
