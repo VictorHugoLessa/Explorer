@@ -8,6 +8,9 @@
     --color-p-main: #23053A;
     --color-span-main: #4A4E69;
     --color-span-background: #FEEAFA;
+
+    /* === Controle de fonte === */
+    font-size: 62.5%;
 }
 
 * {
