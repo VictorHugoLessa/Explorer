@@ -6,14 +6,14 @@
 
 :root {
     /* === Paleta de Cores === */
-    --background-color-body: #EFF1FF;
-    --background-color-before: #8E9AAF;
+    --bc-body: #EFF1FF;
+    --bc-body-before: #8E9AAF;
 
-    --color-h1: #FFF;
-    --color-h1-background: #CBC0D3;
-    --color-p-main: #23053A;
-    --color-span-main: #4A4E69;
-    --color-span-background: #FEEAFA;
+    --c-h1: #FFF;
+    --bc-h1: #CBC0D3;
+    --color-p: #23053A;
+    --c-span: #4A4E69;
+    --bc-span: #FEEAFA;
 
     /* === Controle de fonte === */
     font-size: 62.5%;
@@ -21,14 +21,14 @@
 
 
 body {
-    background: var(--background-color-body);
+    background: var(--bc-body);
 }
 
 body::before {
     content: '';
     width: 100%;
     height: 28rem;
-    background: var(--background-color-before);
+    background: var(--bc-body-before);
 
     position: absolute;
     top: 0;
@@ -47,14 +47,14 @@ header img {
 }
 
 header h1 {
-    color: var(--color-h1);
+    color: var(--c-h1);
 
     font-weight: 400;
     font-size: 4rem;
     line-height: 3.4rem;
     letter-spacing: 5px;
 
-    background-color: var(--color-h1-background);
+    background-color: var(--bc-h1);
     padding: 8px;
 
     margin-bottom: 5rem;
@@ -75,7 +75,7 @@ main {
 }
 
 main p {
-    color: var(--color-p-main);
+    color: var(--color-p);
 
     max-width: 30.5rem;
     margin: 0 auto 6.3rem;
@@ -100,7 +100,7 @@ main p {
 }
 
 .card span {
-    color: var(--color-p-main);
+    color: var(--c-span);
 
     position: absolute;
     top: 1.7rem;
@@ -115,9 +115,47 @@ main p {
 
     border-radius: 20px;
 
-    background: var(--color-span-background);
+    background: var(--bc-span);
+
+    animation: topdown 850ms 350ms backwards;
 }
 
 .card img {
     max-width: 100%;
+
+    animation: downtop 850ms;
+
+}
+
+@media (min-width:700px) {
+    main {
+        max-width: 50rem;
+    }
+    .cards {
+        grid-template-columns: 1fr 1fr;
+    }    
+}
+
+@keyframes topdown {
+    0% {
+        opacity: 0;
+        transform: translateY(-15px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes downtop {
+    0% {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
